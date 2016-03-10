@@ -1,0 +1,3 @@
+var testFunction() {
+  return "works";
+};
