@@ -1,3 +1,3 @@
-var testFunction = function() {
+function testFunction() {
   return "works";
 };
